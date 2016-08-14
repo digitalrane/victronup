@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    amq-protocol (2.0.1)
+    bunny (2.5.0)
+      amq-protocol (>= 2.0.1)
+    ffi (1.9.14)
+    rubyserial (0.4.0)
+      ffi (~> 1.9, >= 1.9.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bunny
+  rubyserial
+
+BUNDLED WITH
+   1.12.5
