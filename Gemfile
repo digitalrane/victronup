@@ -3,5 +3,5 @@
 source "https://rubygems.org"
 
 gem "bunny"
-gem "rubyserial"
+gem "serialport"
 
